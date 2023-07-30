@@ -68,3 +68,9 @@ input.empty {
 .middlearea{
   max-height: 200px !important;
 }
+
+.stories-box a{
+  display: flex;
+  flex-direction: column;
+
+}
