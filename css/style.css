@@ -83,3 +83,7 @@ input.empty {
   position: sticky;
   top:80px;
 }
+
+body {
+  background-color: #ffffff;
+}
