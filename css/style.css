@@ -63,6 +63,8 @@ input.empty {
 .right-menu-margin {
   margin-left: 5px;
     margin-top: 2px;
+}
 
-
+.middlearea{
+  max-height: 200px !important;
 }
