@@ -78,3 +78,8 @@ input.empty {
 .card-header,.card-footer{
   background-color: white;
 }
+
+#sticky-sidebar{
+  position: sticky;
+  top:80px;
+}
